@@ -185,11 +185,11 @@ a {
       from(rgba(0, 0, 0, 0.7)),
       to(rgba(0, 0, 0, 0.3))
     ),
-    url("../images/emile-perron-xrVDYZRGdw4-unsplash.jpg") center/cover
-      no-repeat;
+    url("https://raw.githubusercontent.com/chrisbailey85/bailey-coding/master/images/emile-perron-xrVDYZRGdw4-unsplash.jpg")
+      center/cover no-repeat;
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)),
-    url("../images/emile-perron-xrVDYZRGdw4-unsplash.jpg") center/cover
-      no-repeat;
+    url("https://raw.githubusercontent.com/chrisbailey85/bailey-coding/master/images/emile-perron-xrVDYZRGdw4-unsplash.jpg")
+      center/cover no-repeat;
   z-index: 99;
 }
 
