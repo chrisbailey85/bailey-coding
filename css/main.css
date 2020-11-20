@@ -231,7 +231,7 @@ main {
   bottom: -5vh;
   left: 0;
   z-index: 1;
-  background-image: url("../images/wave.svg");
+  background-image: url("https://raw.githubusercontent.com/chrisbailey85/bailey-coding/aee6830b9afa983ead27cbd7c24d5be26bb850ff/images/wave.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
