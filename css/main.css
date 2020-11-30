@@ -370,7 +370,7 @@ main {
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
-  z-index: 12;
+  z-index: 20;
 }
 
 input,
@@ -464,6 +464,7 @@ textarea {
   color: #000;
   -webkit-box-shadow: 1px 1px 10px #000;
   box-shadow: 1px 1px 10px #000;
+  z-index: 20;
 }
 
 .btn:active {
