@@ -61,8 +61,8 @@ a {
   -ms-flex-item-align: center;
   -ms-grid-row-align: center;
   align-self: center;
-  width: 40%;
-  height: 40%;
+  width: 80%;
+  height: 80%;
 }
 
 .logo img {
@@ -509,6 +509,12 @@ footer p {
 }
 
 @media (min-width: 768px) {
+  /* logo */
+  .logo {
+    width: 40%;
+    height: 40%;
+  }
+
   /* about me */
   .about-content {
     display: -ms-grid;
