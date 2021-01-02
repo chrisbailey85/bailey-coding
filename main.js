@@ -8,7 +8,7 @@ navLinks.forEach(link => {
     })
 })
 
-const labels = document.querySelectorAll('label');
+const labels = document.querySelectorAll('.contact-label');
 labels.forEach(label => {
     label.innerHTML = label.innerText
         .split("")
